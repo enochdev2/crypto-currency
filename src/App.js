@@ -1,10 +1,9 @@
 import React from 'react'
-import ProductApp from './Component/Product/Products/ProductsApp'
-
+import CryptoApp from './CryptoMarket/CryptoApp';
 
 const App = () => {
   return (
-    <ProductApp />
+    <CryptoApp />
   )
 }
 
